@@ -56,6 +56,6 @@ public class DishScript : MonoBehaviour
 
     // 新しい皿の生成関数
     // スライド移動中は他の処理を止める注文
-    private ChangeDish()
-    { }
+    //private ChangeDish()
+    //{ }
 }
